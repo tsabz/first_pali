@@ -13,5 +13,5 @@ first_palindrome(["abc","car","ada","racecar","cool"])
 
 
 
-
+# is palendrome
   # words.reverse == words ? puts("Is a Pali") : puts("is not")
